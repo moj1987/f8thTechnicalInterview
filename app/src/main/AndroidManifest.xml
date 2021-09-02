@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.F8thTechnicalInterview">
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivity" android:label="@string/title"
 
             android:exported="true">
             <intent-filter>
